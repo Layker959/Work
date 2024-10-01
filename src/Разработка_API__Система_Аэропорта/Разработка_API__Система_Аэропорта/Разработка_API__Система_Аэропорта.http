@@ -1,0 +1,6 @@
+@Разработка_API__Система_Аэропорта_HostAddress = http://localhost:5170
+
+GET {{Разработка_API__Система_Аэропорта_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
