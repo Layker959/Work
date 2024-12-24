@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivans\\source\\repos\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj": {}
+    "C:\\Users\\ivans\\OneDrive\\Рабочий стол\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivans\\source\\repos\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj": {
+    "C:\\Users\\ivans\\OneDrive\\Рабочий стол\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivans\\source\\repos\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj",
+        "projectUniqueName": "C:\\Users\\ivans\\OneDrive\\Рабочий стол\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj",
         "projectName": "Разработка_API__Система_Аэропорта",
-        "projectPath": "C:\\Users\\ivans\\source\\repos\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj",
+        "projectPath": "C:\\Users\\ivans\\OneDrive\\Рабочий стол\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj",
         "packagesPath": "C:\\Users\\ivans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivans\\source\\repos\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\obj\\",
+        "outputPath": "C:\\Users\\ivans\\OneDrive\\Рабочий стол\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

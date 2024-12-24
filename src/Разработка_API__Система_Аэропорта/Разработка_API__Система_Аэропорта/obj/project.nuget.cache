@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFnaE8W1rY4=",
+  "dgSpecHash": "5rJspRjCoOU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivans\\source\\repos\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj",
+  "projectFilePath": "C:\\Users\\ivans\\OneDrive\\Рабочий стол\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта\\Разработка_API__Система_Аэропорта.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivans\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ivans\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
