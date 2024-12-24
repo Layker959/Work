@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A095517-00B8-4240-9A76-91AFFA1BD21F}|\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj|c:\\users\\ivans\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A095517-00B8-4240-9A76-91AFFA1BD21F}|\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj|solutionrelative:\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6C1EBC5-68B6-4603-9790-3C4BACA3D0E7}|BlazorApp-empty123\\BlazorApp-empty123.csproj|c:\\users\\ivans\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\blazorapp-empty123\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6C1EBC5-68B6-4603-9790-3C4BACA3D0E7}|BlazorApp-empty123\\BlazorApp-empty123.csproj|solutionrelative:blazorapp-empty123\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1EBC5-68B6-4603-9790-3C4BACA3D0E7}|BlazorApp-empty123\\BlazorApp-empty123.csproj|c:\\users\\ivans\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\blazorapp-empty123\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6C1EBC5-68B6-4603-9790-3C4BACA3D0E7}|BlazorApp-empty123\\BlazorApp-empty123.csproj|solutionrelative:blazorapp-empty123\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A095517-00B8-4240-9A76-91AFFA1BD21F}|\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj|c:\\users\\ivans\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_api__\u0441\u0438\u0441\u0442\u0435\u043C\u0430_\u0430\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -35,19 +43,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\appsettings.json",
+              "RelativeDocumentMoniker": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\appsettings.json",
+              "ToolTip": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\appsettings.json",
+              "RelativeToolTip": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T09:53:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\BlazorApp-empty123\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorApp-empty123\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\BlazorApp-empty123\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorApp-empty123\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-24T09:16:59.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\BlazorApp-empty123\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorApp-empty123\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\BlazorApp-empty123\\Pages\\Index.razor",
               "RelativeToolTip": "BlazorApp-empty123\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-24T08:27:47.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\Controllers\\UsersController.cs",
@@ -55,12 +88,11 @@
               "RelativeToolTip": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\Controllers\\UsersController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T06:23:59.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T06:23:59.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\Models\\MyDbContext.cs",
@@ -72,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj",
               "DocumentMoniker": "C:\\Users\\ivans\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj",
               "RelativeDocumentMoniker": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj",
@@ -80,8 +112,7 @@
               "RelativeToolTip": "\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430_API__\u0421\u0438\u0441\u0442\u0435\u043C\u0430_\u0410\u044D\u0440\u043E\u043F\u043E\u0440\u0442\u0430.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T09:10:32.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:10:32.17Z"
             }
           ]
         }
