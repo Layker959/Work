@@ -1,0 +1,67 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+
+<div class="container text-center mt-5">
+    <h1 class="display-4">Добро пожаловать в наш интернет-магазин!</h1>
+    <p class="lead">Здесь вы можете приобрести программное обеспечение для ваших нужд.</p>
+    <img src="images/welcome.png" alt="Welcome" class="img-fluid mt-4" style="max-width: 400px;" />
+    <div class="mt-4">
+        <a href="/products" class="btn btn-primary btn-lg">Перейти к товарам</a>
+    </div>
+</div>
+
+@page "/products"
+@using SoftwareStore.Data
+
+<div class="container">
+    <h2 class="text-center mt-4">Наши товары</h2>
+    <div class="row">
+        @foreach (var product in Products)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p class="card-text"><strong>@product.Price.ToString("C")</strong></p>
+                        <button class="btn btn-success">Добавить в корзину</button>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private List<Product> Products = new List<Product>
+    {
+        new Product { Id = 1, Name = "Windows 11 Pro", Description = "Операционная система", Price = 199.99m, ImageUrl = "images/windows11.png" },
+        new Product { Id = 2, Name = "Microsoft Office 365", Description = "Пакет для работы", Price = 69.99m, ImageUrl = "images/office365.png" },
+        new Product { Id = 3, Name = "Visual Studio 2022", Description = "IDE для разработчиков", Price = 119.99m, ImageUrl = "images/visualstudio.png" }
+    };
+}
+
+<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">SoftwareStore</a>
+        <button class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Главная
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="products">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Товары
+            </NavLink>
+        </div>
+    </nav>
+</div>
